@@ -1,2 +1,2 @@
 # Robotics-Dynamics-Control-26
-Codes for C space visailizations and jacobians 
+Codes for all 3 assignments with question paper
